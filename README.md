@@ -31,10 +31,7 @@ Actualizaciones:
     Existe la función de actualización manual y automática. Para que cualquiera de las dos funcione hay que seleccionar qué buscamos mediante las distintas cajas de selección.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-ENLACES
-
-El código esta disponible a través de github en el siguiente repositorio: 
-https://github.com/Termibg22/StockSearcher
+ENLACE
 
 Puede descargarse tanto el ejecutable como los ficheros de prueba en el siguiente enlace:
 https://github.com/Termibg22/StockSearcher/releases/
