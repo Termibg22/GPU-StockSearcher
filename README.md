@@ -33,7 +33,7 @@ Actualizaciones:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ENLACE
 
-Puede descargarse tanto el ejecutable como los ficheros de prueba en el siguiente enlace:
+Puede descargar tanto el ejecutable como los ficheros de prueba en el siguiente enlace:
 https://github.com/Termibg22/StockSearcher/releases/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
