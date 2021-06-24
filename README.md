@@ -13,7 +13,7 @@ Ficheros:
     \Amazon\URLs_individual.txt
     \UltimaInformatica\URLs_individual.txt
 
-También se pueden añadir manualmente los ficheros mediante la interfaz gráfica, menú "Opciones"[/list]
+También se pueden añadir manualmente los ficheros mediante la interfaz gráfica, menú "Opciones"
 
 Alertas: 
 
